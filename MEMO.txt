@@ -1,0 +1,4 @@
+sudo apt install python3.12-venv
+python3 -m venv ready_tensor_python
+source ready_tensor_python/bin/activate
+pip install -r requirements.txt
